@@ -1,4 +1,4 @@
-#  ![The Cargo Sentry](/CargoSentry_Logo.png)
+#  ![The Cargo Sentry](/profile/CargoSentry_Logo.png) </br><strong>The Cargo Sentry</strong>
 Cargo damage, theft, and concealed leaks often go undetected during transit. Current passive sensors only report that an event occurred, but not why. Without visual proof, up to 30% of cargo insurance claims are rejected, leaving shippers to absorb the loss.
 
 ## 💡 Solution
